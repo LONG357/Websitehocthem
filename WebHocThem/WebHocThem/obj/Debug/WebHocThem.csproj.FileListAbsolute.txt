@@ -1,0 +1,2 @@
+D:\Hoc\dhh_education_center-main\WebHocThem\WebHocThem\obj\Debug\WebHocThem.csproj.AssemblyReference.cache
+D:\Hoc\dhh_education_center-main\WebHocThem\WebHocThem\obj\Debug\WebHocThem.csproj.CoreCompileInputs.cache
